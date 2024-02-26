@@ -1,6 +1,6 @@
 module github.com/mladBlum/pocketbase
 
-go 1.21.3
+go 1.22.0
 
 require (
 	github.com/SierraSoftworks/multicast/v2 v2.0.0
